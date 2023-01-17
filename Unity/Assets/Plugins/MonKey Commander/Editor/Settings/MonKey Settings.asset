@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: MonKey Settings
   m_EditorClassIdentifier: 
   serializationData:
-    SerializedFormat: 0
+    SerializedFormat: 2
     SerializedBytes: 
     ReferencedUnityObjects: []
     SerializedBytesString: 
@@ -22,9 +22,9 @@ MonoBehaviour:
     PrefabModifications: []
     SerializationNodes: []
   UseSortedSelection: 1
-  MaxSortedSelectionSize: 200
+  MaxSortedSelectionSize: 1000
   ShowSortedSelectionWarning: 1
-  MonkeyConsoleOverrideHotKey: ''''
+  MonkeyConsoleOverrideHotKey: 
   PauseGameOnConsoleOpen: 1
   PutInvalidCommandAtEndOfSearch: 0
   IncludeMenuItems: 1
@@ -32,12 +32,6 @@ MonoBehaviour:
   IncludeModeOnly: 1
   ExcludedAssemblies: 
   ExcludedNameSpaces: 
-  IncludedAssemblies:
-  - Unity.Editor
-  - Assembly-CSharp-Editor-firstpass
-  - Assembly-CSharp-firstpass
-  - YooAsset.Editor
-  - Luban.Editor
-  - EntitiesOverView.Editor
+  IncludedAssemblies: []
   ForceFocusOnDocked: 0
   ShowHelpOnSelectedOnly: 0

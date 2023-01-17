@@ -42,10 +42,10 @@ _ReSharper.CSharp/
 !FGUIProject/
 /Unity/Logs
 
-/Unity/Assets/Plugins/Sirenix
-/Unity/Assets/Plugins/AstarPathfindingProject
-/Unity/Assets/Plugins/Animancer
-/Unity/Assets/Plugins/ShaderControl
+#/Unity/Assets/Plugins/Sirenix
+#/Unity/Assets/Plugins/AstarPathfindingProject
+#/Unity/Assets/Plugins/Animancer
+#/Unity/Assets/Plugins/ShaderControl
 
 /Unity/Sandbox/
 /Unity/Bundles/
@@ -70,7 +70,7 @@ Server/.DS_Store
 /Unity/Assembly-CSharp.csproj
 ~$*.xlsx
 /.vscode
-/Unity/UserSettings/Search.settings
+#/Unity/UserSettings/Search.settings
 /Unity/Unity.Hotfix.csproj
 /Unity/Unity.HotfixView.csproj
 /Unity/Unity.Model.csproj
